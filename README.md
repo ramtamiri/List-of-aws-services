@@ -1,0 +1,20 @@
+This repository is created to list the following AWS resources in your organization:
+
+list_ec2_instances
+list_lambda_functions
+list_ecs_services
+list_s3_buckets
+list_ec2_volumes
+list_efs
+list_vpcs
+list_route53
+list_rds_instances
+list_dynamo_tables
+list_cloudwatch_alarms
+list_cloudtrail_trails
+list_iam_users
+list_cloudformation_stacks
+list_sqs_queues
+list_sns_topics
+
+@ramtamiri
